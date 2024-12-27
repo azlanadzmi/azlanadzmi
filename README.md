@@ -26,7 +26,7 @@
 <!-- My Projects Button -->
 
 <div align="center">
-  <h3>More Projects</h3>
+  <h3>My Projects</h3>
   <a href="https://github.com/azlanadzmi?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20More-My%20Repositories-blue?style=for-the-badge&logo=github"/>
   </a>
