@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Azlan Bin Adzmi</h1>
+<h1 align="center">Hi 👋, I'm MUHAMMAD AZLAN BIN ADZMI</h1>
 <h3 align="center">Working As System Support Manager at IT Company and Part Time IT Student at UTM in Bachelor Network & Security Year 1</h3>
 
 <p align="center">
