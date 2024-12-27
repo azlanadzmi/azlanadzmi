@@ -22,3 +22,12 @@
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azlanadzmi&show_icons=true&locale=en" alt="azlanadzmi" /></p>
+
+<!-- More Projects Button -->
+
+<div align="center">
+  <h3>More Projects</h3>
+  <a href="https://github.com/ChanMeng666?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20More-My%20Repositories-blue?style=for-the-badge&logo=github"/>
+  </a>
+</div>
