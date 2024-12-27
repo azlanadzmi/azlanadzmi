@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azlan Bin Adzmi</h1>
-<h3 align="center">Working As System Support Manager at IT Company and Part Time IT Student at UTM in Bechelor Network & Security Year 1</h3>
+<h3 align="center">Working As System Support Manager at IT Company and Part Time IT Student at UTM in Bachelor Network & Security Year 1</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azlanadzmi&label=Profile%20views&color=0e75b6&style=flat" alt="azlanadzmi" /> </p>
 
