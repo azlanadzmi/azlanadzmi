@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azlanadzmi&show_icons=true&locale=en" alt="azlanadzmi" /></p>
 
-<!-- More Projects Button -->
+<!-- My Projects Button -->
 
 <div align="center">
   <h3>More Projects</h3>
