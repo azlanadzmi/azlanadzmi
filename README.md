@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azlanadzmi" alt="azlanadzmi" /></a> </p>
 
-- 💬 Ask me about **System Support Manager at Calms Technologies Sdn Bhd**
+- 💬 Ask me about **I'm freshie in IT and Still Learning Coding and Everything**
 
 - 📫 How to reach me **sp-muhammad.azlan.adzmi@graduate.utm.my**
 
