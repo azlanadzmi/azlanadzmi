@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azlan Bin Adzmi</h1>
 <h3 align="center">Working As System Support Manager at IT Company and Part Time IT Student at UTM in Bachelor Network & Security Year 1</h3>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa9791ba-3c19-4f64-a83d-1bccbca24c57" alt="7NbT">
+</p>
+
 ![WhatsApp Image 2024-12-28 at 2 18 03 AM](https://github.com/user-attachments/assets/7a852686-f13a-411a-a851-e9489895d77a)
 
 
